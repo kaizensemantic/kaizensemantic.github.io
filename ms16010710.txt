@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "kaizensemantic.com",
+  "Id": "7919ff23-5dff-4a9e-b303-db9b8bc4d27f"
+}
